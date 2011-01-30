@@ -1,36 +1,139 @@
 name  : Alex Bowe
 email : bowe.alexander@gmail.com
-web   : www.alexbowe.com
+phone : +61 438 595 579
+blog  : www.alexbowe.com
+git   : www.github.com/alexbowe
 
-summary : test text but no thanks *bla* yeah
-          A B C D
+
+summary :
+    - Academic with eight months industry experience, including games (AI and physics)
+      and web database applications.
+    - Three years tutoring and leading teams of tutors underneath me.
+    - Achieved highest award for every subject at uni, and the highest honours
+      thesis score in my year. Focused on Information Retrieval and Mathematics.
+    - Passionate Pythonist with several personal projects.
+    - Seeking research and development position with focus on algorithms and machine learning.
+
 
 education :
-    - award : Bachelor of Computer Science (Computational Mathematics)
-              with Distinction
-      uni   : Royal Melbourne Institute of Technology
-      gpa   : 4.0
-      year  : 2009
+    - award  : First Class Honours in Computer Science (Information Retrieval)
+      uni    : Royal Melbourne Institute of Technology
+      year   : 2010
+      gpa    : 4.0
 
-    - award : First Class Honours in Computer Science (Information Retrieval)
-      uni   : Royal Melbourne Institute of Technology
-      gpa   : 4.0
-      year  : 2010
+    - award  : Bachelor of Computer Science (Computational Mathematics) with Distinction
+      uni    : Royal Melbourne Institute of Technology
+      year   : 2009
+      gpa    : 4.0
 
-work :
-    - company : Infinite Interactive
-      start   : bla 2009
-      end     : bla 2009
-      summary : Text yo!
 
+education_highlights :
+    - Wrote my honours thesis on Multiary Wavelet Trees in Practice - a compressed text index
+      not previously implemented, but used frequently as a theoretical device
+      in proofs. Discovered an entirely new data structure in the process.
+    - Used Hadoop and NLTK to implement an automatic, distributed keyphrase extractor.
+    #- Implemented and profiled a small Database Management System, external merge-sort,
+    #  and sort-merge join in C.
+    - Implemented a lexer and parser for a toy language using Flex and Bison.
+    - Researched and wrote an essay about the origins, rationale and practicality of Erlang.
+    - Wrote an essay describing the Chomsky Heirarchy, types of automota, decidability,
+      and P vs NP.
+    - Lead small teams for two software projects, using Scrum and XP.
+
+
+employment :
     - company : Royal Melbourne Institute of Technology
-      start   : July 2007
+      start   : March 2007
       end     : Current
-      summary : A bunch of good stuff
+      summary : During my studies I held the position of
+                Head tutor for Computing Theory and Professional Computing Practice.
+                My duties included delegating tasks among other tutors,
+                organising class material, and maintaining student marks.
+                I also delivered material as a tutor for several other subjects,
+                including Operating Systems, Assembly, and Software Engineering.
+                This contributed significantly to my leadership skills, clarity of
+                explanation, and confidence in public speaking.
 
+    - company : Infinite Interactive
+      start   : August 2009
+      end     : September 2009
+      summary : Worked on the game Puzzle Quest 2. I established a framework for particle
+                systems using Lua, easing the creation of complicated effects, and created
+                a tool in C# to define and visualise cubic splines. Prior to this, paths
+                were specified numerically, and there was no way of seeing it until the
+                game was compiled and running. This enabled the job to be done by the
+                artists rather than the programmers, and much more rapidly. I also
+                redesigned a memory-efficient, incremental A* search in C++,
+                which reduced memory use by approximately 89% on the Nintendo DS.
+
+    - company : Serraview
+      start   : October 2010
+      end     : November 2010
+      summary : Wrote automated component and unit tests for a web application.
+                These were guided by the requirements document, and I was required
+                to document when ad why some requirements were not testable. I furthered this
+                by proposing solutions to some of the problems. This gave
+                me experience with technical documentation.
+
+    - company : Infomedia
+      start   : October 2009
+      end     : February 2010
+      summary : Worked on a web database application in Adobe Flex, with a PHP and MySQL
+                backend, utilising an MVC framework. Here I initiated the use of a unit
+                testing framework.
+
+
+# Year as separate attribute to enable custom alignment
 awards :
-    - Computer Science, 2009
+    - summary : Informally noted as the "best honours student" of 2010 by several professors.
+      year    : 2010
+
+    - summary : Vice-Chancellor's list for Academic Excellence
+                (finished in the top 2% of RMIT Higher Education students).
+      year    : 2009
+
+    - summary : Graduated with Distinction (had a GPA higher than 3.0).
+      year    : 2009
+
+    - summary : CS&IT award for Academic Excellence in the final year of
+                Bachelor of Computer Science at RMIT.
+      year    : 2009
+
+    - summary : CS&IT award for Academic Excellence in the second year of
+                Bachelor of Computer Science at RMIT.
+      year    : 2008
+
+    - summary : Hoang Huy Pham memorial prize for Academic Excellence in
+                the first year of Bachelor of Computer Science at RMIT.
+      year    : 2007
+    
+    - summary : University of New South Wales Australasian Schools
+                Mathematics Competition High Distinction (top two percentile) medal.
+      year    : 2004
+
+
+membership :
+    - IEEE Computer Society
+    - Golden Key International Honour Society (top 15% of University students)
+
+
+#opensource :
+#   - libcds
+
+
+extracurricular :
+    - Weekly group discussions of information retrieval research papers.
+    - Blogging about programming, mathematics, and productivity.
+    - Programming a visual tool to assist with refactoring, by diagramming repetition
+      in source code.
+
 
 skills :
-    - languages: [ Python, Ruby, C, C++, Java, Erlang, Actionscript ]
-    - Map Reduce
+    - areas: [ Information Retrieval, Natural Language Processing, Bioinformatics,
+               Data Mining, Machine Learning, Artificial Intelligence, Modern Algebra ]
+    - languages: [ Python, Ruby, Erlang, C, C++, C#, Java, Actionscript, Assembly,
+                   Bash, Sed, Awk ] # Lua, Scheme
+    - paradigms: [ Functional Programming, Object Oriented Programming, MapReduce ]
+    - design: [ Design Patterns, Refactoring, Optimisation ]
+    - tools: [ Flex and Bison, Antlr, Unit Testing, Git, SCons ]
+    - graphics: [ OpenGL and GLSL, Gnuplot ]
