@@ -1,25 +1,36 @@
-firstname : Alex
-lastname  : Bowe
-email     : bowe.alexander@gmail.com
-web       : www.alexbowe.com
+name  : Alex Bowe
+email : bowe.alexander@gmail.com
+web   : www.alexbowe.com
 
-summary: >
-    test text but no thanks *bla* yeah
+summary : test text but no thanks *bla* yeah
+          A B C D
 
 education :
     - award : Bachelor of Computer Science (Computational Mathematics)
               with Distinction
       uni   : Royal Melbourne Institute of Technology
       gpa   : 4.0
-      grad  : July 2009
+      year  : 2009
+
     - award : First Class Honours in Computer Science (Information Retrieval)
       uni   : Royal Melbourne Institute of Technology
       gpa   : 4.0
-      grad  : November 2010
+      year  : 2010
 
 work :
     - company : Infinite Interactive
-    - company : Royal Melbourne Institute of Technology
+      start   : bla 2009
+      end     : bla 2009
+      summary : Text yo!
 
-skills:
-    languages: [ Python, Ruby, C, C++, Java, Erlang, Actionscript ]
+    - company : Royal Melbourne Institute of Technology
+      start   : July 2007
+      end     : Current
+      summary : A bunch of good stuff
+
+awards :
+    - Computer Science, 2009
+
+skills :
+    - languages: [ Python, Ruby, C, C++, Java, Erlang, Actionscript ]
+    - Map Reduce
