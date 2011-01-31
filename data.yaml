@@ -131,10 +131,10 @@ activities :
 
 skills :
     - name  : Areas
-      set : Information Retrieval, Natural Language Processing, Bioinformatics,
+      set   : Information Retrieval, Natural Language Processing, Bioinformatics,
               Data Mining, Machine Learning, Artificial Intelligence, Modern Algebra 
     - name  : Languages
-      set : Python, Ruby, Erlang, C, C++, C#, Java, Actionscript, Assembly,
+      set   : Python, Ruby, Erlang, C, C++, C#, Java, Actionscript, Assembly,
               Bash, Sed, Awk
     - name  : Paradigms
       set   : Functional Programming, Object Oriented Programming, MapReduce 
