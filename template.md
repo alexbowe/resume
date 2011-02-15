@@ -8,7 +8,7 @@ $name
 
 
 #for $point in $summary
- * $point
+ - $point
 #end for
 
 
@@ -24,7 +24,7 @@ Education
 Education Highlights
 --------------------  
 #for $highlight in $highlights
- * $highlight
+ - $highlight
 #end for
 
 
@@ -40,26 +40,26 @@ Employment History
 Activities
 ----------  
 #for $activity in $activities
- * $activity
+ - $activity
 #end for
 
 
 Awards
 ------  
 #for $award in $awards
- * $award['summary'], $award['year']
+ - $award['summary'], $award['year']
 #end for
 
 
 Society Memberships
 -------------------  
 #for $membership in $memberships
- * $membership
+ - $membership
 #end for
 
 
 Skills
 ------
 #for $skill in $skills
- * $skill['name']: $skill['set']
+ - $skill['name']: $skill['set']
 #end for
