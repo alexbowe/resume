@@ -6,87 +6,91 @@ git   : www.github.com/alexbowe
 
 
 summary :
-    - Academic with eight months industry experience, including games (AI and physics)
-      and web database applications.
+    - Academic with **eight months industry experience**, including games (**AI**
+      and **physics**) and **web database applications**.
     - Three years tutoring and leading teams of tutors underneath me.
-    - Achieved highest award for every subject at uni, and the highest honours
-      thesis score in my year. Focused on Information Retrieval and Mathematics.
-    - Passionate Pythonist with several personal projects.
-    - Seeking research and development position with focus on algorithms
-      and machine learning.
+    - Achieved **highest award** for every subject at uni, and the **highest honours
+      thesis score** in my year. Focused on **Information Retrieval**
+      and **Mathematics**.
+    - Seeking **research and development** position with focus on
+      **advanced algorithms** and **Machine Learning**.
 
 
 degrees :
-    - award : First Class Honours in Computer Science (Information Retrieval)
+    - award : First Class Honours in Computer Science (**Information Retrieval**)
       uni   : Royal Melbourne Institute of Technology
       year  : 2010
       gpa   : 4.0
 
-    - award : Bachelor of Computer Science (Computational Mathematics) with Distinction
+    - award : Bachelor of Computer Science (**Computational Mathematics**) with Distinction
       uni   : Royal Melbourne Institute of Technology
       year  : 2009
       gpa   : 4.0
 
 
 highlights :
-    - Wrote my honours thesis on Multiary Wavelet Trees in Practice - a compressed text index
-      not previously implemented, but used frequently as a theoretical device
-      in proofs. Discovered an entirely new data structure in the process.
-    - Used Hadoop and NLTK to implement an automatic, distributed keyphrase extractor.
-    #- Implemented and profiled a small Database Management System, external merge-sort,
-    #  and sort-merge join in C.
-    - Implemented a lexer and parser for a toy language using Flex and Bison.
-    - Researched and wrote an essay about the origins, rationale and practicality of Erlang.
-    - Wrote an essay describing the Chomsky Hierarchy, types of automota, decidability,
-      and P vs NP.
-    - Lead small teams for two software projects, using Scrum and XP.
+    - Wrote my honours thesis on **Multiary Wavelet Trees in Practice** - a
+      **compressed text index** never previously implemented or analysed
+      empirically, but used frequently as a theoretical device in proofs.
+      Discovered an entirely new data structure in the process.
+    - Used **Hadoop** and **NLTK** to implement an automatic, **distributed
+      keyphrase extractor**.
+    - Implemented and profiled a small Database Management System, external
+      merge-sort, and sort-merge join in C.
+    - Implemented a **lexer** and **parser** for a toy language using Flex and 
+      Bison.
+    - Researched and wrote an essay about the origins, rationale and
+      practicality of **Erlang**.
+    - Wrote an essay describing the Chomsky Hierarchy, types of **automota**, 
+      **decidability**, and **P vs NP**.
+    - Lead small teams for two software projects, using **Scrum** and **XP**.
 
 
 employment :
-    - company : Royal Melbourne Institute of Technology
-      start   : March 2007
-      end     : Current
-      summary : During my studies I held the position of
-                Head tutor for Computing Theory and Professional Computing Practice.
-                My duties included delegating tasks among other tutors,
-                organising class material, and maintaining student marks.
-                I also delivered material as a tutor for several other subjects,
-                including Operating Systems, Assembly, and Software Engineering.
-                This contributed significantly to my leadership skills, clarity of
-                explanation, and confidence in public speaking.
-
     - company : Infinite Interactive
       start   : August 2009
       end     : September 2009
-      summary : Worked on the game Puzzle Quest 2. I established a framework for particle
-                systems using Lua, easing the creation of complicated effects, and created
-                a tool in C# to define and visualise cubic splines. Prior to this, paths
-                were specified numerically, and there was no way of seeing it until the
-                game was compiled and running. This enabled the job to be done by the
-                artists rather than the programmers, and much more rapidly. I also
-                redesigned a memory-efficient, incremental A* search in C++,
-                which reduced memory use by approximately 89% on the Nintendo DS.
+      summary : Worked on the game **Puzzle Quest 2**. I established a framework 
+                for particle systems using Lua, easing the creation of complicated 
+                effects, and created a tool in C# to define and visualise cubic 
+                splines. Prior to this, paths were specified numerically, and 
+                there was no way of seeing it until the game was compiled and running.
+                This enabled the job to be done by the **artists rather than the programmers**,
+                and much more rapidly. I also redesigned a memory-efficient, incremental A* 
+                search in C++, which **reduced memory use by approximately 89%** on 
+                the Nintendo DS.
+
+    - company : Royal Melbourne Institute of Technology
+      start   : March 2007
+      end     : Current
+      summary : During my studies I held the position of **Head tutor** for Computing Theory
+                and Professional Computing Practice. My duties included **delegating tasks** among
+                other tutors, organising class material, and maintaining student marks.
+                I also delivered material as a tutor for several other subjects,
+                including Operating Systems, Assembly, and Software Engineering.
+                This contributed to my **leadership skills**, **clarity of explanation**,
+                and confidence in **public speaking**.
 
     - company : Serraview
       start   : October 2010
       end     : November 2010
-      summary : Wrote automated component and unit tests for a web application.
+      summary : Wrote **automated component and unit tests** for a web application.
                 These were guided by the requirements document, and I was required
                 to document when and why some requirements were not testable. I furthered this
                 by proposing solutions to some of the problems. This gave
-                me experience with technical documentation.
+                me experience with **technical documentation**.
 
     - company : Infomedia
       start   : October 2009
       end     : February 2010
       summary : Worked on a web database application in Adobe Flex, with a PHP and MySQL
-                backend, utilising an MVC framework. Here I initiated the use of a unit
-                testing framework.
+                backend, utilising an MVC framework. Here I **initiated the use of a unit
+                testing framework**.
 
 
 # Year as separate attribute to enable custom alignment
 awards :
-    - summary : Informally noted as the "best honours student" of 2010 by several professors
+    - summary : Informally noted as the "best CS honours student" of 2010 by several professors
       year    : 2010
 
     - summary : Vice-Chancellor's list for Academic Excellence
@@ -125,8 +129,8 @@ memberships :
 activities :
     - Weekly group discussions of information retrieval research papers.
     - Blogging about programming, mathematics, and productivity.
-    - Programming a visual tool to assist with refactoring, by diagramming repetition
-      in source code.
+    - My own projects, such as programming a visual tool to assist with refactoring, by diagramming 
+      repetition in source code.
 
 
 skills :
