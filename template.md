@@ -2,7 +2,6 @@ $name
 =====
 
 **Email** : $email  
-**Phone** : $phone  
 **Blog**  : $blog  
 **Git**   : $git  
 

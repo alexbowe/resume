@@ -1,6 +1,5 @@
 name  : Alex Bowe
 email : bowe.alexander@gmail.com
-phone : +61 438 595 579
 blog  : www.alexbowe.com
 git   : www.github.com/alexbowe
 
@@ -13,10 +12,14 @@ summary :
       thesis score** in my year. Focused on **Information Retrieval**
       and **Mathematics**.
     - Seeking **research and development** position with focus on
-      **advanced algorithms** and **Machine Learning**.
+      **advanced algorithms** and **machine learning**.
 
 
 degrees :
+    - award : Ph.D. in Computer Science (**Bioinformatics**) - in progress
+      uni   : University of Melbourne
+      year  : 2013 (expected)
+      gpa   : N/A
     - award : First Class Honours in Computer Science (**Information Retrieval**)
       uni   : Royal Melbourne Institute of Technology
       year  : 2010
@@ -35,10 +38,12 @@ highlights :
       Discovered an entirely new data structure in the process.
     - Used **Hadoop** and **NLTK** to implement an automatic, **distributed
       keyphrase extractor**.
+    - Researched and presented summary of **MapReduce** framework for GPUs in **CUDA**.
     - Implemented and profiled a small Database Management System, external
       merge-sort, and sort-merge join in C.
     - Implemented a **lexer** and **parser** for a toy language using Flex and 
       Bison.
+    - Implemented a simulation of an operating system process scheduler.
     - Researched and wrote an essay about the origins, rationale and
       practicality of **Erlang**.
     - Wrote an essay describing the Chomsky Hierarchy, types of **automota**, 
@@ -134,9 +139,10 @@ activities :
 
 
 skills :
-    - name  : Areas
+    - name  : Interests
       set   : Information Retrieval, Natural Language Processing, Bioinformatics,
-              Data Mining, Machine Learning, Artificial Intelligence, Modern Algebra 
+              Data Mining, Machine Learning, Artificial Intelligence, Modern Algebra,
+              GPGPU
     - name  : Languages
       set   : Python, Ruby, Erlang, C, C++, C#, Java, Actionscript, Assembly,
               Bash, Sed, Awk
@@ -145,6 +151,6 @@ skills :
     - name  : Design
       set   : Design Patterns, Refactoring, Optimisation
     - name  : Tools
-      set   :  Flex and Bison, Antlr, Unit Testing, Git, SCons
+      set   : Flex and Bison, Unit Testing, Git, SCons
     - name  : Graphics
       set   : OpenGL and GLSL, Gnuplot
