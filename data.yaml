@@ -1,37 +1,57 @@
-name  : Alex Bowe
-email : bowe.alexander@gmail.com
-blog  : www.alexbowe.com
-git   : www.github.com/alexbowe
+name    : Alex Bowe
+email   : bowe.alexander@gmail.com
+blog    : www.alexbowe.com
+twitter : alexbowe
+git     : www.github.com/alexbowe
 
 
 summary :
-    - Academic with eight months industry experience, including games (**AI**
+    - Researching **succinct data structures** and **parallel algorithms**.
+    - Interned at the National Institute of Informatics, Tokyo, under **Kunihiko Sadakane**.
+    - Eight months industry experience, working on games (**AI**
       and **physics**) and **web database applications**.
-    - Three years tutoring and leading teams of tutors underneath me.
+    - Four years tutoring and leading teams of tutors underneath me.
     - Achieved **highest award** for every subject at uni, and the **highest honours
-      thesis score** in my year. Focused on **Information Retrieval**
-      and **Mathematics**.
-    - Seeking **research and development** position with focus on
-      **advanced algorithms** and **machine learning**.
+      thesis score** in my year.
+
+
+papers :
+    - title   : Multiary Wavelet Trees in Practice (Honours Thesis)
+      authors : Alexander Bowe
+      journal : Unpublished
+      year    : 2010
+      url     : https://github.com/downloads/alexbowe/honours-thesis/thesis.pdf
+
+
+talks :
+    - title      : A Simple Parallel Algorithm for Tree Functions
+      authors    : Alexander Bowe, Kunihiko Sadakane
+      conference : Asian Association for Algorithms and Computation
+      year       : 2012
+      # add url tag for slideshare or youtube link
 
 
 degrees :
     - award : Ph.D. in Computer Science (**Bioinformatics**) - in progress
-      uni   : University of Melbourne
-      year  : 2013 (expected)
+      uni   : University of Melbourne 
+      year  : 2014 (expected)
       gpa   : N/A
     - award : First Class Honours in Computer Science (**Information Retrieval**)
       uni   : Royal Melbourne Institute of Technology
       year  : 2010
       gpa   : 4.0
 
-    - award : Bachelor of Computer Science (**Computational Mathematics**) with Distinction
+    - award : Bachelor of Computer Science (**Computational Mathematics**)
+              with Distinction
       uni   : Royal Melbourne Institute of Technology
       year  : 2009
       gpa   : 4.0
 
 
 highlights :
+    - Interned in Tokyo at the National Institute of Informatics, under
+      **Kunihiko Sadakane** (a prominent researcher
+      of **succinct data structures**).
     - Wrote my honours thesis on **Multiary Wavelet Trees in Practice** - a
       **compressed text index** never previously implemented or analysed
       empirically, but used frequently as a theoretical device in proofs.
@@ -46,9 +66,6 @@ highlights :
     - Implemented a simulation of an operating system process scheduler.
     - Researched and wrote an essay about the origins, rationale and
       practicality of **Erlang**.
-    - Wrote an essay describing the Chomsky Hierarchy, types of **automota**, 
-      **decidability**, and **P vs NP**.
-    - Lead small teams for two software projects, using **Scrum** and **XP**.
 
 
 employment :
@@ -67,7 +84,7 @@ employment :
 
     - company : Royal Melbourne Institute of Technology
       start   : March 2007
-      end     : Current
+      end     : November 2011
       summary : During my studies I held the position of **head tutor** for Computing Theory
                 and Professional Computing Practice. My duties included **delegating tasks** among
                 other tutors, organising class material, and maintaining student marks.
@@ -89,11 +106,10 @@ employment :
       start   : October 2009
       end     : February 2010
       summary : Worked on a web database application in Adobe Flex, with a PHP and MySQL
-                backend, utilising an MVC framework. Here I **initiated the use of a unit
+                backend, utilising an MVC framework. Here I **proposed the use of a unit
                 testing framework**.
 
 
-# Year as separate attribute to enable custom alignment
 awards :
     - summary : Informally noted as the "best CS honours student" of 2010 by several professors
       year    : 2010
@@ -126,35 +142,38 @@ awards :
       year    : 2004
 
 
-memberships :
-    - IEEE Computer Society
-    - Golden Key International Honour Society (top 15% of University students)
-
-
 #opensource :
 #   - libcds
+#   - hopefully thrust...
 
 
 activities :
-    - Weekly group discussions of information retrieval research papers.
+    - Co-organiser of bi-weekly informal discussion on algorithms, including
+      professors and students from University of Melbourne and Royal Melbourne
+      Institute of Technology.
     - Blogging about programming, mathematics, and productivity.
-    - My own projects, such as programming a visual tool to assist with refactoring, by diagramming 
-      repetition in source code.
 
 
-skills :
+keywords :
     - name  : Interests
-      set   : Information Retrieval, Natural Language Processing, Bioinformatics,
-              Data Mining, Machine Learning, Artificial Intelligence, Modern Algebra,
-              GPGPU
+      set   : Succinct Data Structures, Algorithms, Compression,
+              Information Retrieval, GPGPU,
+              Parallel Computing, Bioinformatics, Natural Language Processing,
+              Machine Learning,
+              Artificial Intelligence, Information Theory, Algebra
     - name  : Languages
-      set   : Python, Ruby, Erlang, C, C++, C#, Java, Actionscript, Assembly,
+      set   : Python, Erlang, C, C++, CUDA,
+              Java, Actionscript, M68K Assembly,
               Bash, Sed, Awk
     - name  : Paradigms
-      set   : Functional Programming, Object Oriented Programming, MapReduce 
+      set   : Functional Programming, Object Oriented Programming, MapReduce
     - name  : Design
       set   : Design Patterns, Refactoring, Optimisation
     - name  : Tools
-      set   : Flex and Bison, Unit Testing, Git, SCons
+      set   : Flex and Bison, Unit Testing, Git, SCons, Vim
     - name  : Graphics
       set   : OpenGL and GLSL, Gnuplot
+    - name  : Project Management
+      set   : Scrum, Agile, Pragmatic Programming, XP
+    - name  : Other
+      set   : Marketing, Research, Business, Finance, Trading
