@@ -9,6 +9,7 @@ The rationale for doing this is so it is easier to add new awards and workplaces
 
 TODO
 ----
+ - BibTeX output
  - HAML template (greater control of html layout)
  - LaTeX template for PDF generation
  - highlighting syntax: `!text to be highlighted! text not highlighted`. This will involve
@@ -19,3 +20,4 @@ TODO
    template. -v --private
  - possibly a way of applying transformations (with s/bla/bla/ syntax in a transformation config,
    or another yaml file, `{pattern: <regex>, transform: bla bla $1}`
+ - Automatic deployment to GitHub, Linkedin, my blog, etc...
