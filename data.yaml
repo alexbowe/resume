@@ -6,14 +6,15 @@ git     : www.github.com/alexbowe
 
 
 summary :
-    - Researching **succinct data structures** and **parallel algorithms**.
-    - Eight months industry experience, working on games (**AI**
-      and **physics**) and **web database applications**.
+    - Researching **succinct data structures** and **parallel algorithms** for **scalable genomic
+      analysis**. Reduced a 32GB problem to a 5GB problem in memory.
+    - Academic with industry experience, working on low-memory **AI**, **physics** and **development tools**
+      for games, and **web database applications**.
+    - Designed and delivered curriculum for [Hyper Island](http://www.hyperisland.com/)'s Digital Data Strategist course
+      in Stockholm.
     - Four years tutoring and leading teams of tutors underneath me.
-    - Achieved **highest award** for every subject at uni, and the **highest honours
+    - Achieved **highest award** for every subject at university, and the **highest honours
       thesis score** in my year.
-    - Seeking **research and development** internships, working on difficult
-      problems in scalability.
 
 
 papers :
@@ -21,10 +22,16 @@ papers :
       authors : Alexander Bowe
       journal : Unpublished
       year    : 2010
-      url     : https://github.com/downloads/alexbowe/honours-thesis/thesis.pdf
+      url     : https://github.com/alexbowe/wavelet-paper/raw/thesis/thesis.pdf
 
 
 talks :
+    - title      : Succinct de Bruijn Graphs
+      authors    : Alexander Bowe, Kunihiko Sadakane, Taku Onodera, Tetsuo Shibuya
+      conference : Workshop for Algorithms for Large-Scale Information Processing
+      year       : 2012
+      #url        :
+
     - title      : A Simple Parallel Algorithm for Tree Functions
       authors    : Alexander Bowe, Kunihiko Sadakane
       conference : Asian Association for Algorithms and Computation
@@ -33,26 +40,27 @@ talks :
 
 
 degrees :
-    - award : Ph.D. in Computer Science (**Bioinformatics**) - in progress
-      uni   : University of Melbourne 
+    - award : Ph.D. in Computer Science (**Succinct Data Structures**) - in progress
+      uni   : National Institute of Informatics, Tokyo
       year  : 2014 (expected)
       gpa   : N/A
+
     - award : First Class Honours in Computer Science (**Information Retrieval**)
-      uni   : Royal Melbourne Institute of Technology
+      uni   : Royal Melbourne Institute of Technology, Melbourne
       year  : 2010
       gpa   : 4.0
 
     - award : Bachelor of Computer Science (**Computational Mathematics**)
               with Distinction
-      uni   : Royal Melbourne Institute of Technology
+      uni   : Royal Melbourne Institute of Technology, Melbourne
       year  : 2009
       gpa   : 4.0
 
 
 highlights :
-    - Interned in Tokyo at the National Institute of Informatics, under
-      **Kunihiko Sadakane** (a prominent researcher
-      of **succinct data structures**).
+    - Developed a succinct representation of a de Bruijn Graph, reducing the memory requirement
+      of a human genome assembly to **5GB (from 32GB)**.
+    - Developed a generalised parallel GPU algorithm for **tree problems** of a certain form.
     - Wrote my honours thesis on **Multiary Wavelet Trees in Practice** - a
       **compressed text index** never previously implemented or analysed
       empirically, but used frequently as a theoretical device in proofs.
@@ -70,26 +78,32 @@ highlights :
 
 
 employment :
+    - company : Hyper Island
+      start   : September 2012
+      end     : Current
+      summary : Invited contributor for a Digital Data Strategist course, designing and
+                delivering curriculum which focused on algorithm design and scalable analysis.
+                I also assisted the students with the project ideas and implementation.
+
     - company : Infinite Interactive
       start   : August 2009
       end     : September 2009
       summary : Worked on the game **Puzzle Quest 2**. I established a framework 
                 for particle systems using Lua, easing the creation of complicated 
-                effects, and created a tool in C# to define and visualise cubic 
+                effects, and created a graphical tool in C# to define and visualise cubic 
                 splines. Prior to this, paths were specified numerically, and 
                 there was no way of seeing it until the game was compiled and running.
-                This enabled the job to be done by the **artists rather than the programmers**,
-                and much more rapidly. I also redesigned a memory-efficient, incremental A* 
+                This enabled the job to be done quickly by the **artists rather than the programmers**.
+                I also redesigned a memory-efficient, incremental A* 
                 search in C++, which **reduced memory use by approximately 89%** on 
                 the Nintendo DS.
 
     - company : Royal Melbourne Institute of Technology
       start   : March 2007
       end     : November 2011
-      summary : During my studies I held the position of **head tutor** for Computing Theory
-                and Professional Computing Practice. My duties included **delegating tasks** among
-                other tutors, organising class material, and maintaining student marks.
-                I also delivered material as a tutor for several other subjects,
+      summary : During my studies I held the position of **head tutor** for Computing Theory.
+                My duties included **delegating tasks** among other tutors, and designing
+                curriculum. I also delivered material as a tutor for several subjects,
                 including Operating Systems, Assembly, and Software Engineering.
                 This contributed to my **leadership skills**, **clarity of explanation**,
                 and confidence in **public speaking**.
@@ -98,17 +112,15 @@ employment :
       start   : September 2010
       end     : November 2010
       summary : Wrote **automated component and unit tests** for a web application.
-                These were guided by the requirements document, and I was required
-                to document when and why some requirements were not testable. I furthered this
-                by proposing solutions to some of the problems. This gave
-                me experience with **technical documentation**.
+                These were directly guided by the requirements document. I documented
+                untestable requirements, and provided advice to make them testable.
 
     - company : Infomedia
       start   : October 2009
       end     : February 2010
       summary : Worked on a web database application in Adobe Flex, with a PHP and MySQL
                 backend, utilising an MVC framework. Here I **proposed the use of a unit
-                testing framework**.
+                testing framework**, and provided **test templates**.
 
 
 awards :
@@ -143,38 +155,42 @@ awards :
       year    : 2004
 
 
-#opensource :
-#   - libcds
-#   - hopefully thrust...
+opensource :
+  - name    : libcds2
+    url     : https://github.com/fclaude/libcds2
+    summary : Succinct Data Structure Library. Architecture and project management.
 
 
 activities :
-    - Co-organiser of bi-weekly informal discussion on algorithms, including
+    - Blogging about programming, mathematics, and productivity.
+    - Co-organised bi-weekly discussions on algorithms, including
       professors and students from University of Melbourne and Royal Melbourne
       Institute of Technology.
-    - Blogging about programming, mathematics, and productivity.
+    - Learning Japanese using statistical analysis of corpora.
+    - DJing and event organising in Shibuya.
 
 
 keywords :
     - name  : Interests
-      set   : Succinct Data Structures, Algorithms, Compression,
+      set   : Succinct Data Structures, Algorithms, Embedded Systems, Compression,
               Information Retrieval, GPGPU,
-              Parallel Computing, Bioinformatics, Natural Language Processing,
-              Machine Learning,
-              Artificial Intelligence, Information Theory, Algebra
+              Parallel and Distributed Computing, Bioinformatics, Natural Language Processing,
+              Machine Learning, Artificial Intelligence, Algebra
     - name  : Languages
       set   : Python, Erlang, C, C++, CUDA,
               Java, Actionscript, M68K Assembly,
-              Bash, Sed, Awk
+              Bash, Sed, Awk, Mathematica
+    - name  : Libraries
+      set   : NLTK, NumPy, SciPy, Boost, STL, Thrust, PyParsing
     - name  : Paradigms
-      set   : Functional Programming, Object Oriented Programming, MapReduce
+      set   : Functional Programming, Object Oriented Programming, MapReduce, OpenMPI, OpenMP
     - name  : Design
       set   : Design Patterns, Refactoring, Optimisation
     - name  : Tools
-      set   : Flex and Bison, Unit Testing, Git, SCons, Vim
+      set   : Flex and Bison, XUnit, Git, SCons, Vim, IPython, Zsh
     - name  : Graphics
-      set   : OpenGL and GLSL, Gnuplot
+      set   : OpenGL and GLSL, Gnuplot, matplotlib, Dot
     - name  : Project Management
       set   : Scrum, Agile, Pragmatic Programming, XP
-    - name  : Other
-      set   : Marketing, Research, Business, Finance, Trading
+    - name  : Other Interests
+      set   : Marketing, Business, Finance, Trading, Psychology

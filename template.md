@@ -60,6 +60,13 @@ Employment History
 
 #end for
 
+Open Source Contributions
+-------------------------  
+#for $project in $opensource 
+ - **[$project['name']]($project['url'])** : $project['summary']
+
+#end for
+
 Activities
 ----------  
 #for $activity in $activities
