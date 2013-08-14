@@ -11,8 +11,9 @@ summary :
     - Academic with industry experience, working on low-memory **AI**, **physics** and **development tools**
       for games, and **web database applications**.
     - Designed and delivered curriculum for [Hyper Island](http://www.hyperisland.com/)'s Digital Data Strategist course
-      in Stockholm.
+      in Stockholm (as an invited lecturer).
     - Four years tutoring and leading teams of tutors underneath me.
+    - Received Knuth Award Check for finding an error in The Art of Computer Programming Volume 4A.
     - Achieved **highest award** for every subject at university, and the **highest honours
       thesis score** in my year.
 
@@ -68,8 +69,7 @@ highlights :
     - Used **Hadoop** and **NLTK** to implement an automatic, **distributed
       keyphrase extractor**.
     - Researched and presented summary of **MapReduce** framework for GPUs in **CUDA**.
-    - Implemented and profiled a small Database Management System, external
-      merge-sort, and sort-merge join in C.
+    - Implemented and profiled a small Database Management System in C
     - Implemented a **lexer** and **parser** for a toy language using Flex and 
       Bison.
     - Implemented a simulation of an operating system process scheduler.
@@ -124,6 +124,10 @@ employment :
 
 
 awards :
+    - summary : Received [Knuth Reward Check](en.wikipedia.org/wiki/Knuth_reward_check) for finding
+                an error in The Art of Computer Programming Volume 4A, and proposing a temporary fix.
+      year    : 2013
+
     - summary : Informally noted as the "best CS honours student" of 2010 by several professors
       year    : 2010
 
